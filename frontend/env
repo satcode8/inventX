@@ -1,0 +1,2 @@
+REACT_APP_BACKEND_URL=http://localhost:5000
+MONGO_URI="mongodb+srv://inventex-mern:Sumedhatreya007@cluster0.nb3jiaz.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
