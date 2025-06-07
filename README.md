@@ -1,6 +1,20 @@
-**WareHouse Management Using MERN Stack**
+# 🚚 WareHouse Management System (MERN Stack)
 
-Vercel Deploy Link: https://invent-x.vercel.app/
+🌐 **Live Demo**: [https://invent-x.vercel.app](https://invent-x.vercel.app)
+
+A full-stack warehouse management system built using the **MERN stack** (MongoDB, Express, React, Node.js). This app allows you to manage inventory, track stock, and perform warehouse operations with a user-friendly interface.
+
+---
+
+## 📦 Features
+
+- Add, update, and delete inventory items
+- Track stock quantities in real time
+- JWT-based secure authentication
+- MongoDB cloud database integration
+- Responsive frontend built with React
+
+---
 ## Installation
 
 1. **Clone the repository:**
